@@ -1,5 +1,6 @@
 # Diagrama de Flujo
-Realizar un diagrama de flujo que  la computadora realice el proceso de pedir un delivery.
+Esta es una prueba  de un diagrama de flujo. Este diagrama describe la secuencia lógica para hacer un delivery. Este se basa en el diagrama de flujo realizado en clase y se muestra en una lista ordenada escrita en pseudocódigo que, además, se mostrará en una imagen como modelo gráfico del pseudocodigo.
+En el contexto de que nosotros como usuarios ingresamos el número telefonico para poder llamar al restaurant el paso 6 se convierte en una entrada Si en el paso 7 elegimos no elegimos poner una subrutina para no continuar con un bucle indefinido.
 
 1. Inicio
 2. Coger celular
